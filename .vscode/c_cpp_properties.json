@@ -3,16 +3,16 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
+                "${workspaceFolder}",
                 "D:/chenhw/code/linux_h",
-                "D:/chenhw/code/linux_h/linux",
                 "D:/chenhw/code/linux_h/x86_64-linux-gnu"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE",
-                "__x86_64__"
+                "__x86_64__",
+                "_GNU_SOURCE"
             ],
             "compilerPath": "D:\\chenhw\\code\\mingw-w64\\bin\\g++.exe",
             "intelliSenseMode": "clang-x64"

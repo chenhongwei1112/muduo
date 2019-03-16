@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/chenhw/code/boost_1_58_0"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\chenhw\\code\\mingw-w64\\bin\\gcc.exe",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

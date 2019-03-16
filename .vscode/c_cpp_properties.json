@@ -4,8 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "D:/chenhw/code/boost_1_58_0",
                 "D:/chenhw/code/linux_h",
+                "D:/chenhw/code/linux_h/linux",
                 "D:/chenhw/code/linux_h/x86_64-linux-gnu"
             ],
             "defines": [
@@ -14,7 +14,7 @@
                 "_UNICODE",
                 "__x86_64__"
             ],
-            "compilerPath": "D:\\chenhw\\code\\mingw-w64\\bin\\gcc.exe",
+            "compilerPath": "D:\\chenhw\\code\\mingw-w64\\bin\\g++.exe",
             "intelliSenseMode": "clang-x64"
         }
     ],
